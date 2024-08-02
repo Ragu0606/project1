@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+div{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    border-left: 10px solid purple;
+    border-right: 10px yellow dotted;
+    border-top:10px solid plum;
+    border-bottom: 10px solid red;
+    margin: 200px;
+
+}
